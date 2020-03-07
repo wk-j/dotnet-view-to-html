@@ -1,9 +1,7 @@
 using System;
 
-namespace ToHtml
-{
-    public class WeatherForecast
-    {
+namespace ToHtml {
+    public class WeatherForecast {
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
